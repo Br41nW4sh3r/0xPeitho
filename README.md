@@ -1,19 +1,20 @@
-<img src="banner_peitho.png" width="100%" />
-<div align="center">
-# PEITHO — The Synapse
+# [B4W] Br41nW4sh3r
 
-I don't hack systems. I hack beliefs.
+> I don't hack systems. I hack beliefs.
 
-🌐 peitho.sh | Influence Engineering
+### Who am I?
+Influence Engineering | CTF Player | Ciberseguridad
 
----
-
-> peitho (πειθώ) =  Tejedor de voluntades.
-
-</div>
+Me enfoco en entender cómo la gente piensa, decide y actúa, y cómo eso se aplica a la seguridad.
 
 ### What I do
-Influence Engineering / Systems / Security
+- 🧠 Influence Engineering
+- 🛡️ Ciberseguridad
+- 🏴 CTFs & Hacking Ético
+- 🔍 OSINT & Psicología aplicada
 
-### Contact
-github.com/0xPeitho
+### Stack
+`Python` `Linux` `OSINT` `Social Engineering` `CTF`
+
+---
+📍 Buenos Aires, Argentina
