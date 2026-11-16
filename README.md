@@ -1,4 +1,4 @@
-![Banner](banner_peitho.png)
+![Banner](Propaganda Roja.jpg)
 
 # [B4W] Br41nW4sh3r
 
