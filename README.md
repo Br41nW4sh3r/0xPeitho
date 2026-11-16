@@ -1,4 +1,4 @@
-![Banner](banner_roja.jpg)
+![Banner](PropagandaRoja.jpg)
 
 # Br41nW4sh3r
 
