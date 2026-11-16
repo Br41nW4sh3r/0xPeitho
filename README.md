@@ -1,3 +1,5 @@
+![Banner](banner_peitho.png)
+
 # [B4W] Br41nW4sh3r
 
 > I don't hack systems. I hack beliefs.
